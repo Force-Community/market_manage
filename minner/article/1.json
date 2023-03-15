@@ -77,7 +77,75 @@
           "type":"",
           "bloder":"true",
           "text":"MyDonate:"
-        }
-
-    ]
+        },
+        {
+          "type":"",
+          "text":"The MyDonate team feels that the primary benefit of their product is that it is “new,” and that its features and themes are all fresh in the market. From this standpoint, it was worthwhile to invest more time and effort in digging deeper into the promotion points and making them more relevant to the audience’s genuine requirements."
+        },
+        {
+          "type":"",
+           "bloder":"true",
+          "text":"Ataraxis:"
+        },
+      {
+        "type":"",
+        "text":"Clients use Ataraxis not just to store medical data, but it is also a dApp that may help users with mental health diagnosis and therapy. Customers may sign up for future appointments by leaving reviews and paying in ETH using Metamask. Data like as customer reviews are kept using Web3. Storage, allowing for a long-term presence on IPFS/Filecoin. Overall, it’s both useful and unique."
+      },
+      {
+        "text":"3. Please tell us about you or your team’s next steps and long-term plans for your project?",
+        "type":"",
+        "bloder":"true"
+      },
+      {
+        "type":"",
+        "text":"IPFS for WordPress:",
+        "bloder":"true"
+      },
+      {
+        "type":"",
+        "bloder":"",
+        "text":"The next phase in the project’s development is to apply for a grant and to begin planning and creating the project’s real application. The creators’ long-term intention is to isolate all of the functionality into distinct plugins and build up an official website to house all of these features. This will make it easy for consumers to manage all the features, as well as download and test them."
+      },
+      {
+        "type":"",
+         "bloder":"true",
+        "text":"MyDonate:"
+      },
+      {
+        "type":"",
+        "text":"MyDonate is scheduled to formally debut the project and the mainnet by the end of September or early October, with additional advertising to achieve market support and awareness."
+      },
+      {
+        "type":"",
+        "text":"Ataraxis:"
+      },
+      {
+        "type":"",
+        "text":"Ataraxis intends to charge consumers for uploading and storing their other medical information. This can significantly protect the privacy of personal medical data. More features will be added to the Ataraxis dApp in the future."
+      },
+      {
+        "type":"",
+        "text":"All of the IPFS interview highlights for WordPress, MyDonate, and Ataraxis are included above. The early ideas will continue to expand, ultimately getting on track and becoming something amazing. For all developers, this is simply the beginning of a prosperous future."
+      },
+      {
+        "type":"italic",
+        "fontStyle":"italic",
+        "bloder":"true",
+        "text":"Learn more about Force Community"
+      }
+    ],
+    "footerLinks": [
+          {
+            "text":"Twitter",
+            "link":""
+          },
+           {
+            "text":"Discord",
+            "link":""
+          },
+           {
+            "text":"Telegram",
+            "link":""
+          }
+        ]
 }
