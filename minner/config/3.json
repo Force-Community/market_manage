@@ -3,7 +3,7 @@
     "date": "Aug 24, 2022",
     "image": "3_banner.webp",
     "id":"3",
-    "type":"event",
+    "type":["event","Announcement"],
     "name": "The End of 2022 Web3 Infinity Hackathon, the Start of a Brighter Future",
     "content":[
         {

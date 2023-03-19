@@ -3,7 +3,7 @@
     "date": "Sep 15, 2023",
     "image": "winners.webp",
     "id":"1",
-    "type":"insight",
+    "type":["event"],
     "name": "Winners Interview Digest | 2022 Web3 Infinity Hackathon",
     "content": [
         {
@@ -142,7 +142,7 @@
     "date": "Sep 8, 2022",
     "image": "singaporeeventcover.webp",
     "id":"2 connect the bursting web3 world",
-    "type":"event",
+    "type":["event"],
     "name": "Together, Make the Community Voice Heard",
     "content":[
     {
@@ -203,7 +203,7 @@
     "date": "Aug 24, 2022",
     "image": "3_banner.webp",
     "id":"3",
-    "type":"event",
+    "type":["event","Announcement"],
     "name": "The End of 2022 Web3 Infinity Hackathon, the Start of a Brighter Future",
     "content":[
         {
@@ -273,7 +273,7 @@
      "date": "Aug 5, 2022",
     "image": "4_banner.webp",
     "id":"4",
-    "type":"event",
+   "type":["event"],
     "name": "Web3 Infinity Hackathon — The Future is Today",
     "content":[
         {
@@ -518,7 +518,7 @@
         "date": "Jul 14, 2022",
     "image": "5_banner.webp",
     "id":"5",
-    "type":"event",
+   "type":["event"],
     "name": "Web3 Infinity Hackathon Workshop is Ongoing",
     "content":[
         {
@@ -680,7 +680,7 @@
     "date": "Jul 2, 2022",
     "image": "6_banner.webp",
     "id":"6",
-    "type":"event",
+    "type":["event"],
     "name": "Web3 Infinity Hackathon Registration Now Open!",
     "content":[
          {
@@ -894,7 +894,7 @@
         "date": "Jun 24, 2022",
     "image": "7_banner.png",
     "id":"7",
-    "type":"event",
+    "type":["event","Announcement"],
     "name": "Announcing Web3 Infinity Hackathon!",
     "nameText":[
     {
@@ -1107,7 +1107,7 @@
 {
     "date": "Jun 14, 2022",
     "id":"8",
-    "type":"event",
+   "type":["event"],
     "name": "Snapshot of the FIL-Singapore Sub-Events!",
     "content":[
         {
@@ -1328,7 +1328,7 @@
        "date": "Feb 28",
     "image": "9_banner.webp",
     "id":"9",
-    "type":"event",
+   "type":["event"],
     "name": "Orbit FVM Shanghai Meetup Recap — Unlock the Infinite Possibilities of FVM",
     "content":[
         {

@@ -2,7 +2,7 @@
         "date": "Jun 24, 2022",
     "image": "7_banner.png",
     "id":"7",
-    "type":"event",
+    "type":["event","Announcement"],
     "name": "Announcing Web3 Infinity Hackathon!",
     "nameText":[
     {
