@@ -1105,8 +1105,9 @@
     ]
 },
 {
-    "date": "Jun 14, 2022",
-    "id":"8",
+  "date": "Jun 14, 2022",
+  "id":"8",
+   "image": "8_text01.png",
    "type":["event"],
     "name": "Snapshot of the FIL-Singapore Sub-Events!",
     "content":[
