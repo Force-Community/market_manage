@@ -1,10 +1,11 @@
-[{
+[
+  {
   "date": "Feb 28, 2023",
-"image": "9_banner.webp",
-"id":"9",
-"type":["event"],
-"name": "Orbit FVM Shanghai Meetup Recap — Unlock the Infinite Possibilities of FVM",
-"content":[
+  "image": "9_banner.jpg",
+  "id":"9",
+  "type":["event"],
+  "name": "Orbit FVM Shanghai Meetup Recap — Unlock the Infinite Possibilities of FVM",
+  "content":[
    {
        "type":"",
        "text":"The Opportunity Center in Shanghai last Sunday was exceptionally bustling compared to previous days. Amidst the crowds of people, the FVM Shanghai Meetup officially kicked off in the second-floor bookstore. The event venue was surrounded by vast oceans of books, each one withstanding the test of time, immortalized as a chronicle of human history, passing down countless rich experiences accumulated by humanity from generation to generation."
@@ -159,7 +160,7 @@
 
   {
     "date": "Sep 15, 2022",
-    "image": "winners.webp",
+    "image": "winners.jpg",
     "id":"1 winners interview",
     "type":["event"],
     "name": "Winners Interview Digest | 2022 Web3 Infinity Hackathon",
@@ -298,7 +299,7 @@
 },
 {
     "date": "Sep 8, 2022",
-    "image": "singaporeeventcover.webp",
+    "image": "singaporeeventcover.jpg",
     "id":"2 connect the bursting web3 world",
     "type":["event"],
     "name": "Together, Make the Community Voice Heard",
@@ -359,7 +360,7 @@
 {
 
     "date": "Aug 24, 2022",
-    "image": "3_banner.webp",
+    "image": "3_banner.jpg",
     "id":"3",
     "type":["event","Announcement"],
     "name": "The End of 2022 Web3 Infinity Hackathon, the Start of a Brighter Future",
@@ -429,7 +430,7 @@
 },
 {
      "date": "Aug 5, 2022",
-    "image": "4_banner.webp",
+    "image": "4_banner.jpg",
     "id":"4",
    "type":["event"],
     "name": "Web3 Infinity Hackathon — The Future is Today",
@@ -674,7 +675,7 @@
 },
 {
         "date": "Jul 14, 2022",
-    "image": "5_banner.webp",
+    "image": "5_banner.jpg",
     "id":"5",
    "type":["event"],
     "name": "Web3 Infinity Hackathon Workshop is Ongoing",
@@ -836,7 +837,7 @@
 ,
 {
     "date": "Jul 2, 2022",
-    "image": "6_banner.webp",
+    "image": "6_banner.jpg",
     "id":"6",
     "type":["event"],
     "name": "Web3 Infinity Hackathon Registration Now Open!",
@@ -1050,7 +1051,7 @@
 },
 {
         "date": "Jun 24, 2022",
-    "image": "7_banner.png",
+    "image": "7_banner.jpg",
     "id":"7",
     "type":["event","Announcement"],
     "name": "Announcing Web3 Infinity Hackathon!",
@@ -1265,7 +1266,7 @@
 {
   "date": "Jun 14, 2022",
   "id":"8",
-   "image": "8_text01.png",
+   "image": "8_banner.jpg",
    "type":["event"],
     "name": "Snapshot of the FIL-Singapore Sub-Events!",
     "content":[
