@@ -1,0 +1,102 @@
+{
+  "date": "Mar 29, 2023",
+  "image": "10_banner.webp",
+  "id": "10",
+  "type": "event",
+  "name": "Filecoin DeFi Showcase: Access the Power of Decentralized Storage",
+  "content": [
+    {
+      "type": "",
+      "text": "Filecoin, the decentralized storage network that aims to store humanity’s most important information, is hosting a Filecoin DeFi Showcase on April 13 afternoon, at Filecoin Network Base (The Center Space, Level 76, The Center, 99 Queen’s Road Central, Hong Kong)."
+    },
+    {
+      "type": "",
+      "text": "This event is open to all FIL token holders or anyone who wants to learn more about the Filecoin ecosystem. Registration is required and can be completed at this link: <a href='https://fil-hk.io/' target='_blank'>https://fil-hk.io/</a>"
+    },
+    {
+      "type": "",
+      "text": "Filecoin DeFi Showcase is a workshop specifically designed to better inform token holders on how to effectively participate in the Filecoin ecosystem. Teams and funds, aiming to better connect token holders with Storage Providers, will be presenting on their solutions and value propositions in a “pitch day” format. Following the 5-minute team pitches, token holders will have the opportunity to interact with the teams to ask follow-up questions."
+    },
+    {
+      "type": "",
+      "text": "The event will feature at least a dozen teams who have spent time building solutions on the Filecoin Virtual Machine, which enables smart contracts and decentralized applications on Filecoin. Some of these teams have graduated from the Filecoin Frontier Accelerator, a 3-month program powered by LongHash Ventures that supported startups from various sectors such as DeFi, NFTs, media and consumer tech. Other teams have participated in the FIL Foundry program or the Spacewarp hackathon to prepare their solutions for public launch."
+    },
+    {
+      "type": "",
+      "text": "“We are greatly looking forward to hosting the Filecoin DeFi Showcase in Hong Kong. This will be a tremendous opportunity for Filecoin token holders to learn how they can get more involved in the Filecoin ecosystem. I am very excited about the impact that this will have on the Filecoin ecosystem.” said Ashwanth Samuel, Head of Network Growth Investments at Protocol Labs."
+    },
+    {
+      "type": "",
+      "bloder": "true",
+      "text": "List of projects on the Showcase:"
+    },
+    {
+      "type": "",
+      "text": "<a href='http://www.mfil.org' target='_blank'>MFIL DAO</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='http://ezil.me/' target='_blank'>Ezil.Me</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://collectif.finance' target='_blank'>Collectif DAO</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://bifrost.finance' target='_blank'>Bifrost</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://filpluslending.com' target='_blank'>Filplus Lending</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://app.hashmix.org/fil/#/' target='_blank'>HashMix</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://www.filet.finance' target='_blank'>Filet Finance</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://fillpool.space' target='_blank'>FILL Pool</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://www.h2odata.xyz' target='_blank'>H2O Data</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://www.stfil.io' target='_blank'>stFIL</a>"
+    },
+    {
+      "type": "",
+      "text": "<a href='https://www.youtube.com/watch?v=YD9Zr2Mpc0U&t=3s' target='_blank'>MineFi</a>"
+    },
+    {
+      "type": "",
+      "text": "Filecoin DeFi Showcase is part of FIL Hong Kong, a series of events and activities organized by Protocol Labs, the Filecoin Foundation, and its partners to celebrate the ecosystem development of Filecoin in Hong Kong. FIL Hong Kong aims to foster the growth and development of the Filecoin community in Hong Kong and beyond."
+    },
+    {
+      "type": "Filecoin is a decentralized storage network that leverages blockchain technology to create a global market for data storage and retrieval. By allowing anyone to rent out their unused storage space or request data from the network, Filecoin creates a peer-to-peer marketplace that connects supply and demand for data storage.",
+      "text": ""
+    },
+    {
+      "type": "",
+      "text": "With the launch of Filecoin Virtual Machine, FVM brings enormous potential to Filecoin, unleashing the power of an open data economy."
+    },
+    {
+      "type": "",
+      "text": "The launch of FVM is the largest upgrade in the history of the Filecoin network. In addition to unlocking huge potential, FVM also allows developers to port existing EVM contracts without any changes. This means that developers can leverage the existing Ethereum ecosystem and tools to build applications on Filecoin."
+    },
+    {
+      "type": "",
+      "text": "The launch of FVM unlocks endless possibilities for the Filecoin ecosystem, ranging from data DAOs, to perpetual storage, to financial services for storage providers (such as collateral lending, liquid staking, and insurance protocols), to decentralized compute and Layer 2 networks (such as reputation systems, incentive-aligned content delivery networks, and more). If you want to learn more about FVM or want to participate in the Filecoin ecosystem, please visit <a href='https://fvm.filecoin.io/' target='_blank'>https://fvm.filecoin.io/</a>."
+    },
+    {
+      "type": "",
+      "text": "Don’t miss this chance to learn more about the Filecoin ecosystem and how you can participate. <a href='https://fil-hk.io/' target='_blank'>Register</a> now and join us on April 13 for Filecoin DeFi Showcase!"
+    }
+  ]
+}
