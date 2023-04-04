@@ -1,6 +1,6 @@
 {
   "date": "Mar 29, 2023",
-  "image": "10_banner.webp",
+  "image": "10_banner.png",
   "id": "10",
   "type": "event",
   "name": "Filecoin DeFi Showcase: Access the Power of Decentralized Storage",
@@ -32,47 +32,47 @@
     },
     {
       "type": "",
-      "text": "<a href='http://www.mfil.org' target='_blank'>MFIL DAO</a>"
+      "text": "- <a href='http://www.mfil.org' target='_blank'>MFIL DAO</a>"
     },
     {
       "type": "",
-      "text": "<a href='http://ezil.me/' target='_blank'>Ezil.Me</a>"
+      "text": "- <a href='http://ezil.me/' target='_blank'>Ezil.Me</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://collectif.finance' target='_blank'>Collectif DAO</a>"
+      "text": "- <a href='https://collectif.finance' target='_blank'>Collectif DAO</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://bifrost.finance' target='_blank'>Bifrost</a>"
+      "text": "- <a href='https://bifrost.finance' target='_blank'>Bifrost</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://filpluslending.com' target='_blank'>Filplus Lending</a>"
+      "text": "- <a href='https://filpluslending.com' target='_blank'>Filplus Lending</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://app.hashmix.org/fil/#/' target='_blank'>HashMix</a>"
+      "text": "- <a href='https://app.hashmix.org/fil/#/' target='_blank'>HashMix</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://www.filet.finance' target='_blank'>Filet Finance</a>"
+      "text": "- <a href='https://www.filet.finance' target='_blank'>Filet Finance</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://fillpool.space' target='_blank'>FILL Pool</a>"
+      "text": "- <a href='https://fillpool.space' target='_blank'>FILL Pool</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://www.h2odata.xyz' target='_blank'>H2O Data</a>"
+      "text": "- <a href='https://www.h2odata.xyz' target='_blank'>H2O Data</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://www.stfil.io' target='_blank'>stFIL</a>"
+      "text": "- <a href='https://www.stfil.io' target='_blank'>stFIL</a>"
     },
     {
       "type": "",
-      "text": "<a href='https://www.youtube.com/watch?v=YD9Zr2Mpc0U&t=3s' target='_blank'>MineFi</a>"
+      "text": "- <a href='https://www.youtube.com/watch?v=YD9Zr2Mpc0U&t=3s' target='_blank'>MineFi</a>"
     },
     {
       "type": "",
